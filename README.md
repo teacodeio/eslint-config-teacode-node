@@ -6,21 +6,21 @@ For **Node**. To see for React version check [eslint-config-teacode](https://git
 
 #### install:
 ```bash
-npm i eslint-config-teacode -D
+npm i eslint-config-teacode-node -D
 
 # or 
 
-yarn add eslint-config-teacode -D
+yarn add eslint-config-teacode-node -D
 ```
 
 
 #### Add to `package.json`:
 ```json
 {
-  "prettier": "eslint-config-teacode/prettier",
+  "prettier": "eslint-config-teacode-node/prettier",
   "devDependencies": {
     "eslint": "^7.0.0 || ^8.0.0",
-    "eslint-config-teacode": "^1",
+    "eslint-config-teacode-node": "^1",
     "typescript": "*"
   }
 }
@@ -30,7 +30,7 @@ Config require both `eslint` and  `typescript` to be installed.
 #### Add `.eslintrc`:
 ```json
 {
-  "extends": ["eslint-config-teacode"]
+  "extends": ["eslint-config-teacode-node"]
 }
 ```
 

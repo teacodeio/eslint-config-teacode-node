@@ -1,6 +1,6 @@
 {
-  "name": "eslint-config-teacode",
-  "version": "1.0.3",
+  "name": "eslint-config-teacode-node",
+  "version": "1.0.0",
   "description": "Teacode eslint config for node",
   "main": "index.js",
   "scripts": {
