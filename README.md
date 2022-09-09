@@ -1,4 +1,4 @@
-# eslint-config-teacode
+# eslint-config-teacode-node
 
 For **Node**. To see for React version check [eslint-config-teacode](https://github.com/teacodeio/eslint-config-teacode.git#readme)
 
